@@ -20,10 +20,11 @@ pwd: Training!
 
 # 3. Databricks / Spark SQL
 
-https://eastus2.azuredatabricks.net:443/sql/protocolv1/o/5786363451044140/cona-sparksql-demo
+Follow instructions from classroom to get SparkSQL endpoint and other set up.
 
 user: token
-password: <user your own token>
+
+password: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 # 4. Power BI set up
 
