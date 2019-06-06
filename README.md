@@ -1,6 +1,9 @@
 # cona-bi-training
 Hands on lab/workshop on June 07,2019
 
+- Login in to Azure portal: https://portal.azure.com
+- Go to cona-bi-training Resource Group
+
 
 # 1. SQL DB
 
