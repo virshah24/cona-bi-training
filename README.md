@@ -7,7 +7,7 @@ Hands on lab/workshop on June 07,2019
 
 # 1. SQL DB
 
-https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
+server: cona-training-sqlsvr.database.windows.net
 
 user: conauser
 
