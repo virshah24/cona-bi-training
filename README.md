@@ -4,9 +4,10 @@ Hands on lab/workshop on June 07,2019
 
 # 1. SQL DB
 
-	https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
+https://raw.githubusercontent.com/microsoft/sql-server-samples/master/samples/databases/northwind-pubs/instnwnd.sql
 
 user: conauser
+
 pwd: Training!
 
 # 2. Get ADF and create Datasets 
@@ -27,9 +28,9 @@ Download and Install Power BI Desktop: https://docs.microsoft.com/en-us/power-bi
 
 https://docs.azuredatabricks.net/user-guide/bi/power-bi.html
 
-	https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
+https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
 
-	https://docs.azuredatabricks.net/api/latest/authentication.html
+https://docs.azuredatabricks.net/api/latest/authentication.html
 
 # 5. MS Excel set up
 
