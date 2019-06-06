@@ -26,7 +26,9 @@ password: <user your own token>
 Download and Install Power BI Desktop: https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
 
 https://docs.azuredatabricks.net/user-guide/bi/power-bi.html
+
 	https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
+
 	https://docs.azuredatabricks.net/api/latest/authentication.html
 
 # 5. MS Excel set up
