@@ -13,7 +13,7 @@ module.exports={
                * Try to add this transaction into Event-Hub 
                */
               
-              const client = EventHubClient.createFromConnectionString("Endpoint=sb://eventhub-func-test-afs.servicebus.windows.net/;SharedAccessKeyName=rootsomething;SharedAccessKey=Ce9D04rkRK7xlBYVigvHqtuQ09uQzxBLjnzvWna428I=;EntityPath=conacosmostest","conacosmostest");
+              const client = EventHubClient.createFromConnectionString("Endpoint=sb:/xxxx.servicebus.windows.net/;SharedAccessKeyName=rootsomething;SharedAccessKey=xxxxxxxxxxxxxxxxxxx=;EntityPath=conacosmostest","conacosmostest");
                async function test() {
                   
                   
