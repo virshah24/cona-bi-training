@@ -25,8 +25,8 @@ Follow instructions from classroom to get SparkSQL endpoint and other set up.
 user: token
 
 password: xxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
-# 4. Power BI set up
+ 
+# 4. Power BI set up & Spark SQL
 
 Download and Install Power BI Desktop: https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
 
@@ -36,7 +36,7 @@ https://docs.microsoft.com/en-us/power-bi/desktop-get-the-desktop
 
 https://docs.azuredatabricks.net/api/latest/authentication.html
 
-# 5. MS Excel set up
+# 5. MS Excel set up & Spark SQL
 
 Install Simba Spark ODBC driver 64-bit from /Databricks folder
 
