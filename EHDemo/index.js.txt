@@ -1,0 +1,26 @@
+module.exports = async function (context, eventHubMessages) {
+    context.log(`JavaScript eventhub trigger function called for message array ${eventHubMessages}`);
+    
+    eventHubMessages.forEach((message, index) => {
+        context.log(`Processing message ${message}`);
+        context.log(JSON.stringify(message));
+        var data = message;
+        var bottler_id = '' + data.bottler_id;
+        switch (bottler_id) {
+
+           case "12":
+             context.bindings.outputDocument1 = JSON.stringify(message);
+             context.log('Wrote to Bottler 12 cosmos db');
+             break;
+             break;
+           case "51":
+             context.bindings.outputDocument51 = JSON.stringify(message);
+             context.log('Wrote to United cosmos db');
+             break;
+
+           default: 
+            context.log('Default case, please point to the correct bottlers cosmos db..');
+            break;
+        }
+    });
+};
