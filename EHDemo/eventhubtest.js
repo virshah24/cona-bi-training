@@ -7,6 +7,7 @@ var data = {
     "TNDR_TEXT": " ",
     "LAUFK": "4",
     "sourceName": "ECC",
+    "tableName": "VTTK",
     "STABF": " ",
     "_rid": "KT0XAIZjKMJPXgAAAAAAAA==",
     "_self": "dbs/KT0XAA==/colls/KT0XAIZjKMI=/docs/KT0XAIZjKMJPXgAAAAAAAA==/",
